@@ -1,14 +1,14 @@
 # JTD3D
 
-This is the repository that contains source code for the [JDT3D website](https://trailab.github.io/jdt3d-website/).
+This is the repository that contains source code for the [DeBias-CLIP website](https://trailab.github.io/debias-clip-website/).
 
-If you find JDT3D useful for your work please cite:
+If you find DeBias-CLIP useful for your work please cite:
 ```
 @article{cheongJDT3DAddressingGaps2024,
-  author    = {Cheong, Brian and Zhou, Jiachen and Waslander, Steven},
-  title     = {JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention},
-  journal   = {ECCV},
-  year      = {2024},  
+  author    = {Lavoie, Marc-Antoine and Mahmoud, Anas and Zaimi, Aldo and Fancy Tchango, Arsene and Waslander, Steven},
+  title     = {CLIP Is Shortsighted: Paying Attention Beyond the First Sentence},
+  journal   = {CVPR},
+  year      = {2026},  
 }
 ```
 
