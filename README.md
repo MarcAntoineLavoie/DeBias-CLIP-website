@@ -1,4 +1,4 @@
-# JTD3D
+# DeBias-CLIP
 
 This is the repository that contains source code for the [DeBias-CLIP website](https://trailab.github.io/debias-clip-website/).
 
